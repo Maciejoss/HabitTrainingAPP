@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "168007582571",
+    "project_id": "habit-trainer-f557f",
+    "storage_bucket": "habit-trainer-f557f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168007582571:android:ab062382060f28cdf1422e",
+        "android_client_info": {
+          "package_name": "com.example.habit_trainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168007582571-c8augl15tkshpn8ikim1sr35584elig8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuxZI18u-29zeeOUlj8uACXHi124Eu51E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168007582571-c8augl15tkshpn8ikim1sr35584elig8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
